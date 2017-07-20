@@ -7,7 +7,7 @@ Usually this is used for base image to build project docker to combine both java
 
 ```
 # Dockerfile
-FROM fengzhou/java-node
+FROM applifting/java-node
 
 ADD file-to-be-added /mnt
 
